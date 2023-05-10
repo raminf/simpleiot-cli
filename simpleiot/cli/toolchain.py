@@ -44,10 +44,10 @@ import tempfile
 # THIS IS NOT THE ARDUINO CLI VERSION. IT'S THE INSTALLED ESP32 TOOLCHAIN ONE.
 # For example, on the Mac it's installed at:
 # ~/Library/Arduino15/packages/esp32/tools/esptool_py/4.2.1/esptool
-# We need the '4.2.1' version here. We really need to find a better way of determining
+# We need the '4.5.1' version here. We really need to find a better way of determining
 # the version.
 #
-LATEST_ARDUINO_ESP32_TOOLCHAIN_VERSION = "4.2.1"
+LATEST_ARDUINO_ESP32_TOOLCHAIN_VERSION = "4.5.1"
 
 #
 # NOTE: the toolchain directory starts with an underline. When listing all the teams installed
